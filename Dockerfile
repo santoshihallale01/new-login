@@ -1,8 +1,8 @@
 FROM node:19-alpine3.15
 
-WORKDIR /reddit-clone
+WORKDIR /new-login
 
-COPY . /reddit-clone
+COPY . /new-login
 RUN npm install 
 
 EXPOSE 3000
