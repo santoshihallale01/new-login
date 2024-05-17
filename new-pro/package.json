@@ -1,6 +1,6 @@
 {
     "name" : "login-app",
-    "version": "1.0.0",
+    "version": "letest",
     "main": "app.js",
     "scripts": {
       "start": "node app.js"
